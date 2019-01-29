@@ -1,4 +1,4 @@
-# prickchain
+# Prickchain
 A small POC of simple private Blockchain.
 
 # Setup
